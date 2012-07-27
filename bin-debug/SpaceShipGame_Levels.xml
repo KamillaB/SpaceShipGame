@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Levels>
+    <ShipProperties>
+		<Radius> 20 </Radius>
+	</ShipProperties>
+	<Level>
+		<ID> 1 </ID>
+		<Text> Beginner </Text>
+		<Ship>
+			<ID> Red </ID>
+			<ShipColor> 0xFF0000 </ShipColor>
+			<rowId> 1 </rowId>
+			<columnId> E </columnId>
+		</Ship>
+		<Ship>
+			<ID> Orange </ID>
+			<ShipColor> 0xCC6600 </ShipColor>
+			<rowId> 5 </rowId>
+			<columnId> E </columnId>
+		</Ship>
+		<Ship>
+			<ID> Blue </ID>
+			<ShipColor> 0x0066FF </ShipColor>
+			<rowId> 3 </rowId>
+			<columnId> B </columnId>
+		</Ship>
+		<Ship>
+			<ID> Green </ID>
+			<ShipColor> 0x009933 </ShipColor>
+			<rowId> 4 </rowId>
+			<columnId> C </columnId>
+		</Ship>
+		<Ship>I
+			<ID> Yellow </ID>
+			<ShipColor> 0xFFFF66 </ShipColor>
+			<rowId> 2 </rowId>
+			<columnId> D </columnId>
+		</Ship>
+	</Level>
+	<Level>
+		<ID> 2 </ID>
+		<Text> Beginner </Text>
+		<Ship>
+			<ID> Red </ID>
+			<ShipColor> 0xFF0000 </ShipColor>
+			<rowId> 1 </rowId>
+			<columnId> E </columnId>
+		</Ship>
+		<Ship>
+			<ID> Orange </ID>
+			<ShipColor> 0xCC6600 </ShipColor>
+			<rowId> 5 </rowId>
+			<columnId> E </columnId>
+		</Ship>
+		<Ship>
+			<ID> Blue </ID>
+			<ShipColor> 0x0066FF </ShipColor>
+			<rowId> 3 </rowId>
+			<columnId> B </columnId>
+		</Ship>
+		<Ship>
+			<ID> Green </ID>
+			<ShipColor> 0x009933 </ShipColor>
+			<rowId> 4 </rowId>
+			<columnId> C </columnId>
+		</Ship>
+		<Ship>I
+			<ID> Yellow </ID>
+			<ShipColor> 0xFFFF66 </ShipColor>
+			<rowId> 2 </rowId>
+			<columnId> D </columnId>
+		</Ship>
+	</Level>
+</Levels>
+		

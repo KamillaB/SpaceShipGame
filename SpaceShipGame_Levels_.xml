@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Levels>
+    <Level>
+		<ID> 1 </ID>
+		<Text> Beginner </Text>
+		<Ship ID = "RED" ShipColor = "0xFF0000" rowId = "1" columnId = "E"/>			
+		<Ship ID = "Orange" ShipColor = "0xCC6600" rowId = "5" columnId = "E"/>
+		<Ship ID = "Blue" ShipColor = "0x0066FF" rowId ="3" columnId ="B" />
+		<Ship ID = "Green" ShipColor = "0x009933" rowId = "4" columnId ="C" />
+		<Ship ID ="Yellow" ShipColor ="0xFFFF66" rowId ="2" columnId = "D" />
+	</Level>
+	<Level>
+		<ID> 2 </ID>
+		<Text> Beginner </Text>
+		<Ship ID = "RED" ShipColor = "0xFF0000" rowId = "1" columnId = "E"/>			
+		<Ship ID = "Orange" ShipColor = "0xCC6600" rowId = "5" columnId = "E"/>
+		<Ship ID = "Blue" ShipColor = "0x0066FF" rowId ="3" columnId ="B" />
+		<Ship ID = "Green" ShipColor = "0x009933" rowId = "4" columnId ="C" />
+		<Ship ID ="Yellow" ShipColor ="0xFFFF66" rowId ="2" columnId = "D" />
+	</Level>
+</Levels>
+		

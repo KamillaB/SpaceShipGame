@@ -1,0 +1,44 @@
+<projectDescription>
+  <id>1282955551024</id>
+  <name>TheSpaceShipGame</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/KAmesz/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/KAmesz/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///D|/---%20Flash%20munka/TheSpaceShipGame/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="GameField.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/GameField/GameField.as</uri>
+    <uri label="GameButton.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/GameButton/GameButton.as</uri>
+    <uri label="BeginGame.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/BeginGame/BeginGame.as</uri>
+    <uri label="Navy.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/Navy/Navy.as</uri>
+    <uri label="Ship.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/Ship/Ship.as</uri>
+    <uri label="Logic.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/Logic/Logic.as</uri>
+    <uri label="Flotta.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/dev/Flotta/Flotta.as</uri>
+    <uri label="TheSpaceShipGame.as">file:///D|/---%20Flash%20munka/TheSpaceShipGame/TheSpaceShipGame.as</uri>
+    <uri label="TheSpaceShipGame.as">file:///D|/--- Flash munka/TheSpaceShipGame/TheSpaceShipGame.as</uri>
+    <uri label="Flotta.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Flotta/Flotta.as</uri>
+    <uri label="Ship.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Ship/Ship.as</uri>
+    <uri label="Counter.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Counter/Counter.as</uri>
+    <uri label="GameTimer.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/GameTimer/GameTimer.as</uri>
+    <uri label="InfoPanel.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/InfoPanel/InfoPanel.as</uri>
+    <uri label="TxtField.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/TxtField/TxtField.as</uri>
+    <uri label="GameField.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/GameField/GameField.as</uri>
+    <uri label="Logic.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Logic/Logic.as</uri>
+    <uri label="FadeOut.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Effects/FadeOut.as</uri>
+    <uri label="FadeIn.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Effects/FadeIn.as</uri>
+    <uri label="SetAlpha.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Effects/SetAlpha.as</uri>
+    <uri label="FadeInInterval.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Effects/FadeInInterval.as</uri>
+    <uri label="GameButton.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/GameButton/GameButton.as</uri>
+    <uri label="BeginGame.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/BeginGame/BeginGame.as</uri>
+    <uri label="Field.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Field/Field.as</uri>
+    <uri label="TheSpaceShipGame.fla">file:///D|/--- Flash munka/TheSpaceShipGame/TheSpaceShipGame.fla</uri>
+    <uri label="Box.as">file:///D|/--- Flash munka/TheSpaceShipGame/dev/Box/Box.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
